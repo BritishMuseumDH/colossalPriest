@@ -3,6 +3,7 @@
 
 # Source data and models for creation of the Colossal Priest from Cyprus
 
+![](statue_of_a_priest.gif)
 Upper part of a colossal limestone statue of a bearded man, a worshipper or possibly a priest. The complete statue, at least 2m tall, depicted a standing figure in a frontal pose; he wears pleated tunic (chiton) and over the left shoulder a cloak (himation) with a zig-zag fold on the border.
 
 Dating to 450 BC - 425 BC and made in Cyprus.
